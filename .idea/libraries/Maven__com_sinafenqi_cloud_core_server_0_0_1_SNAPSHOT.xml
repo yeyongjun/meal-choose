@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sinafenqi.cloud:core-server:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sinafenqi/cloud/core-server/0.0.1-SNAPSHOT/core-server-0.0.1-20180823.081858-67.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sinafenqi/cloud/core-server/0.0.1-SNAPSHOT/core-server-0.0.1-20180823.081858-67-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sinafenqi/cloud/core-server/0.0.1-SNAPSHOT/core-server-0.0.1-20180823.081858-67-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
