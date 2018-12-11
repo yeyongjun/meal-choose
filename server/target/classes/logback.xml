@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<configuration>
-    <contextName>meal-choose</contextName>
-    <include resource="com/sinafenqi/core/server/log/defaults.xml"/>
-    <include resource="com/sinafenqi/core/server/log/base.xml"/>
-</configuration>
